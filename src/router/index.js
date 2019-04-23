@@ -31,7 +31,7 @@ export default new Router({
       component: AddUser
     },
     {
-      path: '/updateuser/:userid',
+      path: '/updateuser/:userId',
       name: 'UpdateUser',
       component: UpdateUser
     }
